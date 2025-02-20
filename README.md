@@ -3,6 +3,8 @@ Classic skins for XBMC4Xbox, archived for preservation purposes.
 
 All skins (except Alaska / Alaska Revisited & TheOrbs) are .zip files to facilitate easy installation directly onto your Xbox. (Repository WIP, more screenshots coming soon!)
 
+Accepting submissions, please reach out if you've got skins that are missing from here (or, even better, Xbox Media Player era skins!)
+
 ## [Amped](https://github.com/faithvoid/XBMC-Classic-Skins/raw/refs/heads/main/skin/amped.zip)
 ![](screenshots/amped.jpg)
 
