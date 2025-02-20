@@ -1,7 +1,7 @@
 # XBMC-Classic-Skins
 Classic skins for XBMC4Xbox, archived for preservation purposes.
 
-All skins (except Alaska / Alaska Revisited & TheOrbs) are .zip files to facilitate easy installation directly onto your Xbox.
+All skins (except Alaska / Alaska Revisited & TheOrbs) are .zip files to facilitate easy installation directly onto your Xbox. (Repository WIP, more screenshots coming soon!)
 
 ## [Amped](https://github.com/faithvoid/XBMC-Classic-Skins/raw/refs/heads/main/skin/amped.zip)
 ![](screenshots/amped.jpg)
