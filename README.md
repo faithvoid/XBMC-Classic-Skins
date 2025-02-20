@@ -1,2 +1,4 @@
 # XBMC-Classic-Skins
-Classin skins for XBMC4Xbox, archived for preservation purposes.
+Classic skins for XBMC4Xbox, archived for preservation purposes.
+
+All skins (except Alaska / Alaska Revisited & TheOrbs) are .zip files to facilitate easy installation directly onto your Xbox.
