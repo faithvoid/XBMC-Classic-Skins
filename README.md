@@ -12,5 +12,5 @@ All skins (except Alaska / Alaska Revisited & TheOrbs) are .zip files to facilit
 ## ![MC360](https://github.com/faithvoid/XBMC-Classic-Skins/raw/refs/heads/main/skin/MC360.zip)
 [](screenshots/mc360.jpg)
 
-## ![Project Mayhem 3]("https://github.com/faithvoid/XBMC-Classic-Skins/raw/refs/heads/main/skin/Project Mayhem III.zip")
+## ![Project Mayhem 3](<https://github.com/faithvoid/XBMC-Classic-Skins/raw/refs/heads/main/skin/Project Mayhem III.zip>)
 [](screenshots/projectmayhem3.jpg)
