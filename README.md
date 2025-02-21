@@ -5,7 +5,7 @@ All skins (except Alaska / Alaska Revisited & TheOrbs) for XBMC4Xbox are .zip fi
 
 Accepting submissions, please reach out if you've got skins that are missing from here (or, even better, Xbox Media Player era skins!)
 
-# XBMC
+# Xbox Media Centre
 ## [Amped](https://github.com/faithvoid/XBMC-Classic-Skins/raw/refs/heads/main/skin/amped.zip)
 ![](screenshots/amped.jpg)
 
@@ -17,3 +17,6 @@ Accepting submissions, please reach out if you've got skins that are missing fro
 
 ## [Project Mayhem 3](<https://github.com/faithvoid/XBMC-Classic-Skins/raw/refs/heads/main/skin/Project Mayhem III.zip>)
 ![](screenshots/projectmayhem3.jpg)
+
+# Xbox Media Player
+- TBA!
